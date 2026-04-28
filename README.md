@@ -39,11 +39,12 @@ The goal was to identify root causes and recommend actionable improvements.
 <img src= "Executive Summary.png" width="800">
 
 ### 🔹 KPI Performance
-![KPI Performance](Screenshots/kpi-performance.png)
+
+<img src= "KPI's Performance.png" width="800">
 
 ### 🔹 Root Cause Analysis
-![Root Cause Analysis](Screenshots/root-cause-analysis.png)
 
+<img src= "Root Cause Analysis.png" width="800">
 
 ---
 
