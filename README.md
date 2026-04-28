@@ -30,6 +30,20 @@ The goal was to identify root causes and recommend actionable improvements.
 - Operational drivers identification
 - Actionable recommendations
 
+## Dashboard Screenshots
+
+## 📸 Dashboard Preview
+
+### 🔹 Executive Summary
+![Executive Summary](Screenshots/executive-summary.png)
+
+### 🔹 KPI Performance
+![KPI Performance](Screenshots/kpi-performance.png)
+
+### 🔹 Root Cause Analysis
+![Root Cause Analysis](Screenshots/root-cause-analysis.png)
+
+
 ---
 
 ## 🔑 Key Insights
