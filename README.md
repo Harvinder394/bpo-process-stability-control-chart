@@ -35,7 +35,8 @@ The goal was to identify root causes and recommend actionable improvements.
 ## 📸 Dashboard Preview
 
 ### 🔹 Executive Summary
-(Screenshots/Executive Summary.png)
+
+<img src="Screenshots/Executive Summary.png" width="800">
 
 ### 🔹 KPI Performance
 ![KPI Performance](Screenshots/kpi-performance.png)
